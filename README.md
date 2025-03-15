@@ -1,1 +1,1 @@
-<center># technoCrates</center>
+<center><h1>technoCrates</h1></center>
