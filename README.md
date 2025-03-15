@@ -1,1 +1,1 @@
-<h1 styles="color: yellow;">technoCrates</h1>
+<h1>technoCrates</h1>
